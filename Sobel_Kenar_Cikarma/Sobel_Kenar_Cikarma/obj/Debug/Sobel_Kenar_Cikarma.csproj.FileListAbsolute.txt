@@ -1,0 +1,27 @@
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.exe.config
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.exe
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.pdb
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.csprojResolveAssemblyReference.cache
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.Form1.resources
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.Properties.Resources.resources
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.csproj.GenerateResource.Cache
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.exe
+c:\users\caner\documents\visual studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.pdb
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.exe.config
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.exe
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.pdb
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.exe
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.pdb
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.csprojResolveAssemblyReference.cache
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.Form1.resources
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.Properties.Resources.resources
+C:\Users\SERGEN\Desktop\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.csproj.GenerateResource.Cache
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.exe.config
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.exe
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.pdb
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.exe
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\bin\Debug\Sobel_Kenar_Cikarma.pdb
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.csprojResolveAssemblyReference.cache
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.Form1.resources
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.Properties.Resources.resources
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\Sobel_Kenar_Cikarma\obj\Debug\Sobel_Kenar_Cikarma.csproj.GenerateResource.Cache
